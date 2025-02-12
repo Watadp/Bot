@@ -4,3 +4,4 @@ discord.py
 matplotlib
 openpyxl
 flask
+xlsxwriter
